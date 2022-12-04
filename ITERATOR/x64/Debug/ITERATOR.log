@@ -1,0 +1,3 @@
+﻿  ITERATORM.cpp
+C:\Users\Александр\source\repos\InorderIterator\ITERATOR\ITERATORM.cpp(12,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ITERATOR.vcxproj -> C:\Users\Александр\source\repos\InorderIterator\x64\Debug\ITERATOR.exe
